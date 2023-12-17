@@ -14,7 +14,6 @@ struct ContentView: View {
     @State private var blueValue: Double = 0
 
     var body: some View {
-        
         ZStack {
             Color(.darkGray)
                 .ignoresSafeArea()
