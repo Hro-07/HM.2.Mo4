@@ -43,7 +43,7 @@ struct ValueTextField: View {
         ))
         .textFieldStyle(RoundedBorderTextFieldStyle())
         .keyboardType(.decimalPad)
-        .frame(width: 80)
+        .frame(width: 60)
     }
 }
 

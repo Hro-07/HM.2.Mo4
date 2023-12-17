@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		246719002B2F119B00675F1B /* SliderWithTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 246718FF2B2F119B00675F1B /* SliderWithTextField.swift */; };
 		249528442B2DBC8A001BEA52 /* HM_2_Mo4App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249528432B2DBC8A001BEA52 /* HM_2_Mo4App.swift */; };
 		249528462B2DBC8A001BEA52 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249528452B2DBC8A001BEA52 /* ContentView.swift */; };
 		249528482B2DBC8B001BEA52 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 249528472B2DBC8B001BEA52 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		246718FF2B2F119B00675F1B /* SliderWithTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderWithTextField.swift; sourceTree = "<group>"; };
 		249528402B2DBC8A001BEA52 /* HM.2.Mo4.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HM.2.Mo4.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		249528432B2DBC8A001BEA52 /* HM_2_Mo4App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HM_2_Mo4App.swift; sourceTree = "<group>"; };
 		249528452B2DBC8A001BEA52 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				249528432B2DBC8A001BEA52 /* HM_2_Mo4App.swift */,
 				249528452B2DBC8A001BEA52 /* ContentView.swift */,
+				246718FF2B2F119B00675F1B /* SliderWithTextField.swift */,
 				249528472B2DBC8B001BEA52 /* Assets.xcassets */,
 				249528492B2DBC8B001BEA52 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				246719002B2F119B00675F1B /* SliderWithTextField.swift in Sources */,
 				249528462B2DBC8A001BEA52 /* ContentView.swift in Sources */,
 				249528442B2DBC8A001BEA52 /* HM_2_Mo4App.swift in Sources */,
 			);
